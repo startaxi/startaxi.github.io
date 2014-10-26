@@ -1,2 +1,2 @@
-[startaxi.github.io home page](startaxi.github.io)
+[Home page](http://startaxi.github.io/)
 ==================
